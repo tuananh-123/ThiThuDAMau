@@ -1,0 +1,10 @@
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Zackariah Attkins', '476 Novick Lane', '6622046642', '2014-08-13');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Clemente Lucey', '94503 Ridge Oak Road', '3535468909', '2018-05-08');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Wilt Hruska', '911 Maryland Lane', '6167472755', '2016-05-25');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Pammi Ruggieri', '198 Victoria Way', '3098656151', '2002-12-08');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Torrey Hargie', '9384 Daystar Avenue', '8536481155', '2002-07-12');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Tabby Newman', '8765 Clove Circle', '1796838206', '2009-09-06');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Brice Page', '10 Veith Crossing', '2882648607', '2017-12-14');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Wilona Batha', '5 Nelson Plaza', '8398139979', '2020-12-21');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Lion Patty', '9 Sunbrook Terrace', '5341731115', '2007-09-08');
+insert into NHANVIEN (ten, diachi, sodienthoai, ngaytuyendung) values ('Burl Thackeray', '820 Old Gate Circle', '8977973618', '2011-02-01');
